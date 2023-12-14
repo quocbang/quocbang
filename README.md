@@ -1,7 +1,6 @@
 ## Hi there :wave: I'm quocbang - Software Engineer 🌱 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-- 👋 Hi, I’m @teq-quocbang
 - 👀 I’m interested in Golang
 - 🌱 I’m currently learning and mastering Backend 😅
 
